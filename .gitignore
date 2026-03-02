@@ -2,3 +2,8 @@
 .env.local
 .DS_Store
 .claude/settings.local.json
+
+# Hugo build artifacts
+sreejits.com/public/
+sreejits.com/resources/
+sreejits.com/.hugo_build.lock
