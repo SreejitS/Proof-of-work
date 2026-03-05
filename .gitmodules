@@ -4,3 +4,6 @@
 [submodule "sreejits.com/themes/hugo-blog-awesome"]
 	path = sreejits.com/themes/hugo-blog-awesome
 	url = https://github.com/hugo-sid/hugo-blog-awesome.git
+[submodule "auto-budget"]
+	path = auto-budget
+	url = https://github.com/SreejitS/auto-budget.git
